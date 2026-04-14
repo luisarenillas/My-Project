@@ -1,0 +1,4 @@
+<div class="container mt-4">
+  <h1>Welcome to ScreenStack</h1>
+  <p>Your tracker and search engine for movies and tv shows</p>
+</div>
