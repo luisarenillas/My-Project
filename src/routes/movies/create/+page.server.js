@@ -1,4 +1,4 @@
-import db from "$lib/db.js";
+import db from "$lib/server/db.js";
 import { fail, redirect } from "@sveltejs/kit";
 
 export const actions = {

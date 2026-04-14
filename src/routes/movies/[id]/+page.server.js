@@ -1,4 +1,4 @@
-import db from "$lib/db.js";
+import db from "$lib/server/db.js";
 import { error } from "@sveltejs/kit";
 import { ObjectId } from "mongodb";
 
