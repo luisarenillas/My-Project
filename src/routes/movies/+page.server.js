@@ -1,4 +1,4 @@
-import db from "$lib/server/db.js";
+import { getMovies } from "$lib/server/db.js";
 
 export async function load() {
   const movies = await db.getMovies();
